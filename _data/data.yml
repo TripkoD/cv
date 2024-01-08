@@ -8,54 +8,45 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Dordije Tripkovic
+    tagline: Data Scientist
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: dordijetripkovic@gmail.com
+    phone: (+49) 015 224 022 293
+    timezone: Central Europe
+    citizenship: Serbia
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: djtri
+    github: TripkoD
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: C1
+
+        - idiom: German
+          level: B2
+
+        - idiom: Serbian/Croatian/Bosnian
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: History
           link:
 
-        - item: Snowboarding
+        - item: Gaming
           link:
 
-        - item: Cooking
+        - item: Fitness
           link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -66,200 +57,92 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Electrochemistry
+        university: Technical University of Denmark
+        time: 2015 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          - Researched novel materials for energy conversion and storage, with a focus on electrochemical characterization.
+          - Developed tools for analyzing and visualizing data using electrochemical characterization methods.
+          - Served as a teaching assistant for the "Physics 101" course, enhancing my ability to effectively communicate complex concepts.        
+          
+      - degree: MSc in Materials Science and Engineering
+        university: University of Novi Sad
+        time: 2013 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Synthesis and characterization of novel materials for microelectronics.
+
+      - degree: BSc in Chemical Engineering
+        university: University of Novi Sad
+        time: 2009 - 2013
+        details: |
+          - Modelling, Unit Operations, Chemical Reactors, Industrial Management
+          - Award: The Best Student of University of Novi Sad in 2013   
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Data Science Team Lead
+        time: 2023 - Present
+        company: BASF SE, Ludwigshafen, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I am in charge of coordinating data science activities related to battery-related research withing BASF SE inlcuding
+          battery materials, battery recycling, and stationary energy storage. I lead the team of data engineers and data analysts,
+          who is providing digital products help R&D to make use of vast amounts of data and seamlessly generate insights.
+          
+      - role: Senior Digitalization Specialist
+        time: 2020 - 2023
+        company: BASF SE, Ludwigshafen, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          Full-stack development of databases, APIs, dashboards, and web apps.
+      - role: Postdoc
         time: 2012 - 2014
-        company: Amazon, London
+        company: Battery and Electrochemistry Laboratory, KIT, Karlsruhe, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          Academic research on novel battery materials for electromobility applications.
+          Data Stewardship, Data Governance, Data Management, developing digital solutions
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      Here are some of the most important publications from my academic career. For the full of publications, visit 
+      my [Google Scholar profile](https://scholar.google.com/citations?user=mu_zWwoAAAAJ&hl=sr).
+    papers:  
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Thermally Controlled Activation and Passivation of Surface Chemistry and Oxygen-Exchange Kinetics on a Perovskite Oxide"
+        link: "https://doi.org/10.1021/acs.chemmater.1c03901"
+        authors: Đ. Tripković, J. Wang, R. Küngas, M.B. Mogensen, B. Yildiz, P.V. Hendriksen
+        journal: "Chemistry of Materials, 2022" 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Design-of-experiments-guided optimization of slurry-cast cathodes for solid-state batteries"
+        link: "https://doi.org/10.1016/j.xcrp.2021.100465"
+        authors: J.H. Teo, F. Strauss, Đ. Tripković, S. Schweidler, Y. Ma, M. Bianchini, J. Janek
+        journal: "Cell Reports Chemical Science, 2021"
+
+      - title: "Surface Modification Strategies for Improving the Cycling Performance of Ni Rich Cathode Materials"
+        link: "https://doi.org/10.1002/ejic.202000408"
+        authors: D. Weber, Đ. Tripković, K. Kretschmer, M. Bianchini, T. Brezesinski
+        journal: European Journal of Inorganic Chemistry, 2020 
+
+      - title: "Surface recrystallization an underestimated phenomenon affecting oxygen exchange activity"
+        link: "https://doi.org/10.1039/C9TA02607J"
+        authors: Đ. Tripković, R. Küngas, M.B. Mogensen, P.V. Hendriksen
+        journal: "Journal of Materials Chemistry A, 2019"
+
+      
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 80%  
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Kubernetes
+        level: 50%
