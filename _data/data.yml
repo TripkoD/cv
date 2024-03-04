@@ -1,23 +1,18 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: right
+    about: False
+    education: True
 
     # Profile information
     name: Dordije Tripkovic
     tagline: Data Scientist
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg
 
     # Sidebar links
     email: dordijetripkovic@gmail.com
     phone: (+49) 015 224 022 293
     timezone: Central Europe
     citizenship: Serbia
-    website: blog.webjeda.com #do not add http://
     linkedin: djtri
     github: TripkoD
 
@@ -48,12 +43,12 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As an experienced data scientist with a background in electrochemistry, materials science, and chemical engineering,
+      I have a proven track record of leveraging data to solve complex problems and drive business strategy.
+      I excel at translating user requirements into technical deliverables and have a talent for bridging the gap between technical and business teams.
+      Through my extensive experience in negotiations, mid- to long-term digitalization strategy, and resource planning,
+      I have developed strong customer success management skills that ensure high levels of satisfaction with digital solutions.
+     
 education:
     title: Education
     info:
@@ -61,9 +56,9 @@ education:
         university: Technical University of Denmark
         time: 2015 - 2019
         details: |
-          - Researched novel materials for energy conversion and storage, with a focus on electrochemical characterization.
+          - Conducted research on novel materials for energy conversion and storage, with a focus on electrochemical characterization.
           - Developed tools for analyzing and visualizing data using electrochemical characterization methods.
-          - Served as a teaching assistant for the "Physics 101" course, enhancing my ability to effectively communicate complex concepts.        
+          - Served as a teaching assistant for the "Physics 101" course, which enhanced my ability to effectively communicate complex concepts.        
           
       - degree: MSc in Materials Science and Engineering
         university: University of Novi Sad
@@ -85,21 +80,21 @@ experiences:
         time: 2023 - Present
         company: BASF SE, Ludwigshafen, Germany
         details: |
-          I am in charge of coordinating data science activities related to battery-related research withing BASF SE inlcuding
-          battery materials, battery recycling, and stationary energy storage. I lead the team of data engineers and data analysts,
-          who is providing digital products help R&D to make use of vast amounts of data and seamlessly generate insights.
+          I am responsible for coordinating data science activities related to battery-related research within BASF SE,
+          including battery materials, battery recycling, and stationary energy storage. I lead a team of data engineers and data analysts
+          who provide digital products to assist R&D in utilizing vast amounts of data and seamlessly generating insights.
           
       - role: Senior Digitalization Specialist
         time: 2020 - 2023
         company: BASF SE, Ludwigshafen, Germany
         details: |
-          Full-stack development of databases, APIs, dashboards, and web apps.
+          Full-stack development of databases, APIs, dashboards, and web apps. 
       - role: Postdoc
-        time: 2012 - 2014
+        time: 2019 - 2020
         company: Battery and Electrochemistry Laboratory, KIT, Karlsruhe, Germany
         details: |
-          Academic research on novel battery materials for electromobility applications.
-          Data Stewardship, Data Governance, Data Management, developing digital solutions
+          I conducted academic research on novel battery materials for electromobility applications. 
+          Additionally, I was responsible for data stewardship, data governance, data management, and developing digital solutions for data analysis and visualization.
 
 publications:
     title: Publications
@@ -131,7 +126,7 @@ publications:
       
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
     toolset:
 
@@ -139,7 +134,7 @@ skills:
         level: 95%
 
       - name: Python
-        level: 80%
+        level: 90%
 
       - name: SQL
         level: 80%  
