@@ -1,7 +1,7 @@
 sidebar:
     position: right
     about: False
-    education: True
+    education: False
 
     # Profile information
     name: Dordije Tripkovic
